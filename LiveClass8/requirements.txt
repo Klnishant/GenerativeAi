@@ -1,6 +1,7 @@
 langchain
 langchain-community
 langchain-core
+langchain_groq
 pypdf
 tiktoken
 aiofiles
@@ -11,6 +12,7 @@ python-multipart
 PyPDF2
 faiss-cpu
 python-dotenv
+langchain_huggingfacee
 
 
 -e . # Install the package in editable mode
