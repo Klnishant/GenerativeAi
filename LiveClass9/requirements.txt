@@ -1,0 +1,11 @@
+flask==2.3.3
+werkzeug==2.3.7
+langchain
+langchain-groq
+python-dotenv
+boto3==1.28.0 
+chromadb
+pypdf
+tiktoken
+unstructured
+langchain_huggingface
